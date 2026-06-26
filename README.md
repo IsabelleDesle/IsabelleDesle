@@ -13,15 +13,14 @@
 
 ### 🎓 About me
 
-I'm a final-year Bachelor's student in **AI &amp; Creative Technologies** at Howest, currently working on my thesis: an **AI-powered museum annotation platform** that combines computer vision, NLP and multimedia features to help curators and visitors explore digitised collections.
+I'm a final-year Bachelor's student in **Creative Technologies and AI** at Howest, currently working on my thesis about video analysis of videos of dogs and on my internship: an **AI-powered museum annotation platform** that combines computer vision, NLP and multimedia features to help curators and visitors explore digitised collections.
 
 I love building end-to-end systems — from a model running on a Raspberry Pi to a polished Next.js frontend backed by FastAPI and Postgres.
 
 ### 🔬 What I'm working on
 
-- 🏛️ **Museum Assistant** — Full-stack AI annotation platform (Next.js + FastAPI + Supabase + IIIF) using Annotorious, OpenSeadragon and SAM-style segmentation
-- 🐕 **Video analysis for canine behaviour detection** with PyTorch & Detectron2
-- 📚 Bachelor's thesis on AI in cultural heritage
+- 🏛️ Internship on AI in cultural heritage **Museum Assistant** — Full-stack AI annotation platform (Next.js + FastAPI + Supabase + IIIF) using Annotorious, OpenSeadragon and SAM-style segmentation
+- 🐕 Bachelor's thesis **Video analysis for canine behaviour detection** with PyTorch & Detectron2
 
 ### 🛠️ Tech I work with
 
