@@ -20,7 +20,7 @@ I love building end-to-end systems — from a model running on a Raspberry Pi to
 ### 🔬 What I'm working on
 
 - 🏛️ Internship on AI in cultural heritage **Museum Assistant** — Full-stack AI annotation platform (Next.js + FastAPI + Supabase + IIIF) using Annotorious, OpenSeadragon and SAM-style segmentation
-- 🐕 Bachelor's thesis **Can a locally deployed AI model help to understand the behavior of sniffer dogs detecting Parkinson's Disease?"** with PyTorch, VideoMAE & Detectron2
+- 🐕 Bachelor's thesis about the research question **"Can a locally deployed AI model help to understand the behavior of sniffer dogs detecting Parkinson's Disease?"** with PyTorch, VideoMAE & Detectron2
 
 ### 🛠️ Tech I work with
 
