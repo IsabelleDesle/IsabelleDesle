@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Isabelle 👋</h1>
 
 <p align="center">
-  <em>Full-stack developer & AI researcher · Bachelor AI &amp; Creative Technologies @ <a href="https://www.howest.be/">Howest</a></em><br/>
-  <em>Wortegem, Flanders 🇧🇪</em>
+  <em>AI / ML Engineer · Bachelor Creative Technologies and AI @ <a href="https://www.howest.be/">Howest</a></em><br/>
+  <em>Kortrijk, Flanders 🇧🇪</em>
 </p>
 
 <p align="center">
