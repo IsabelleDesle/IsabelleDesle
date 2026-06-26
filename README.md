@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isabelle 👋</h1>
 
 <p align="center">
-  <em>AI / ML Engineer · Bachelor Creative Technologies and AI @ <a href="https://www.howest.be/">Howest</a></em><br/>
+  <em>AI / ML Engineer · Bachelor Creative Technologies and AI @ <a href="https://www.howest.be/nl/opleidingen/bachelor/creative-technologies-and-artificial-intelligence">Howest</a></em><br/>
   <em>Kortrijk, Flanders 🇧🇪</em>
 </p>
 
