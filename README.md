@@ -75,6 +75,6 @@ I love building end-to-end systems — from a model running on a Raspberry Pi to
 ### 📫 Get in touch
 
 - 💼 Open to internships and graduate roles in **AI engineering**, **full-stack development**, and **applied ML / computer vision**
-- 📧 Reach me via [GitHub](https://github.com/IsabelleDesle)
+- 📧 Reach me via [LinkedIn](https://www.linkedin.com/in/isabelle-desl%C3%A9-1a3a0422a/)
 
 <sub>Thanks for stopping by — feel free to explore my pinned repos above. ✨</sub>
